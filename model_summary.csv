@@ -1,0 +1,9 @@
+Metric,Value
+Total Records,185565
+Number of Countries,210
+Number of Years,26
+Average Actual Price,530442420.05
+Average Predicted Price,532738129.91
+Average Prediction Error,-2295709.8621
+Model Used,Random Forest
+Model R² Score (Test),0.9937
